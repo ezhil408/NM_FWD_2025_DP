@@ -1,0 +1,183 @@
+.logo{
+    color:#ffffff !important;
+    font-family:"Roboto";
+    border-style:dotted;
+    height:5opx;
+    width:50px;
+    border-color:#0954f5;
+    border-width:5px;
+    background-color:transparent;
+    padding-left:13px;
+    padding-right:13px;
+    text-align:center;
+}
+
+#navname{
+    color:#ffffff;
+    font-family:"Roboto";
+
+}
+.profile{
+    border-radius:50%;
+    width:280px;
+
+}
+.intro-bg-container {
+    background-color: #191a1d;
+    padding: 10px;
+    height: 100vh;
+}
+.intro-head{
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 60px;   
+}
+.intro-name{
+    color: #4b6cc1;
+    font-family: "roboto";
+    font-size: 60px;
+}
+.intro-para{
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 40px;
+}
+.j{
+    background-color: #323f4b;
+}
+.fact{
+    color: #cced00;
+    font-family: "roboto";
+}
+
+.about-me{
+    color: #ffffff;
+    font-family: "roboto";
+}
+.me{
+    width:100%;
+    border-radius:10px;
+
+}
+.my-self-para{
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 24px;
+}
+.skill-bg{
+    background-color: #1f2933;
+
+}
+.skill-logo{
+    height: 80px;
+    width: 80px;
+    border-radius:7px;
+}
+.skill-card{
+    background: #323f4b; 
+    height: 100%;
+    border-radius:7px;
+    width:100%;
+}
+.skill-name{
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 140%;
+}
+.services-section-bg-container {
+    background-color: #52606d;
+}
+.services-section-head {
+    color: #cced00;
+    font-family: "roboto";
+}
+
+.services-section-sub-head {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.services-section-card-container {
+    background-color: #323f4b;
+    color: #9aa5b1;
+    font-family: "roboto";
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.services-section-logo {
+    height: 90px;
+    border-radius:7px;
+}
+
+.services-section-para {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 24px;
+}
+.workdone-section-bg-container {
+    background-image: url("bg.png");
+    background-size: cover;
+}
+
+.workdone-section-hr {
+    background-color: #ffffff;
+    width: 60px;
+}
+
+.workdone-section-head {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 40px;
+}
+
+.workdone-section-para {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 16px;
+}
+.footer-section-profile {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.footer-section-name {
+    color: #cced00;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-section-role {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.footer-section-bg-container {
+    background-color: #0d2436;
+}
+
+.footer-section-icon {
+    font-size: 25px;
+    color: #5a7184;
+}
+
+.footer-section-bottom-continer {
+    background-color: #001c32;
+}
+.contact{
+    background-color:#0d2436;
+    padding:5px;
+
+}
+.contact-logo{
+    margin:20px;
+
+}
+a{
+    text-decoration: none !important;
+    color:blue;
+}
