@@ -2,7 +2,7 @@
     color:#ffffff !important;
     font-family:"Roboto";
     border-style:dotted;
-    height:5opx;
+    height:50px;
     width:50px;
     border-color:#0954f5;
     border-width:5px;
@@ -62,7 +62,7 @@
 .my-self-para{
     color: #9aa5b1;
     font-family: "roboto";
-    font-size: 24px;
+    font-size: 28px;
 }
 .skill-bg{
     background-color: #1f2933;
@@ -114,7 +114,7 @@
 .services-section-para {
     color: #9aa5b1;
     font-family: "roboto";
-    font-size: 24px;
+    font-size: 28px;
 }
 .workdone-section-bg-container {
     background-image: url("bg.png");
@@ -135,7 +135,7 @@
 .workdone-section-para {
     color: #ffffff;
     font-family: "roboto";
-    font-size: 16px;
+    font-size: 20px;
 }
 .footer-section-profile {
     height: 70px;
@@ -147,13 +147,13 @@
     color: #cced00;
     font-family: "roboto";
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .footer-section-role {
     color: #9aa5b1;
     font-family: "roboto";
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .footer-section-bg-container {
@@ -180,4 +180,5 @@
 a{
     text-decoration: none !important;
     color:blue;
+
 }
